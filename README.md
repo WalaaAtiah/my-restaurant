@@ -59,3 +59,12 @@ _Thank you for coming to our restaurant_
 
 ##### This task has been done by Walaa Atiyh [click here!](https://github.com/WalaaAtiah)
 
+
+
+# the wireframe images
+### wirefrem for home page:
+
+![s](./photo/wireframe.png)
+
+### wirefrem for menu page:
+
